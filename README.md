@@ -1,13 +1,13 @@
-# 🌟 ERNext Developer - [Your Name] 🌟
+# 🌟 ERNext Developer - Shubham Prabhat 🌟
 
-> ![Watermark](https://via.placeholder.com/800x200?text=ERNext+Developer) <!-- Replace this link with the URL of your watermark image -->
+> ![Watermark](https://github.com/uelerp/resume_shubham_prabhat/blob/main/watermark_image_test.png)
 
 Welcome to my GitHub profile! I am a **dedicated ERNext Developer** with a passion for building robust, scalable, and efficient applications. My expertise spans across modern **web technologies**, **backend systems**, and **DevOps practices**.
 
 ---
 
 ## 🖼 Profile Picture
-<img src="https://via.placeholder.com/150" alt="Your Photo" style="border-radius: 50%; width: 150px; height: 150px;"> <!-- Replace the placeholder link with your profile photo URL -->
+<img src="https://github.com/uelerp/resume_shubham_prabhat/blob/main/old.jpg" alt="Shubham Prabhat Photo" style="border-radius: 50%; width: 150px; height: 150px;">
 
 ---
 
